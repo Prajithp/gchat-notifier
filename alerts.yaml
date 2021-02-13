@@ -1,0 +1,6 @@
+channels:
+  - name: devops
+    url: https://chat.googleapis.com/v1/spaces/AAAxxxxxxxxxxxxx
+    labels:
+      - alertname
+      - service
